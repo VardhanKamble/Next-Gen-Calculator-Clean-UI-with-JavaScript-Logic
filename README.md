@@ -1,1 +1,1 @@
-Responsive calculator built with HTML, CSS, and JavaScript, supporting basic arithmetic operations and clear/backspace functionality.
+A professional-grade calculator with a sleek, modern design featuring 3D effects, responsive layout, and support for basic arithmetic operations and user-friendly interactions.
